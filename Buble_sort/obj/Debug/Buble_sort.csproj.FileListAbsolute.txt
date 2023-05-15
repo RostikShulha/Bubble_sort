@@ -1,0 +1,11 @@
+D:\Універ\Алгоритмізація та програмування\Buble_sort\Buble_sort\bin\Debug\Buble_sort.exe.config
+D:\Універ\Алгоритмізація та програмування\Buble_sort\Buble_sort\bin\Debug\Buble_sort.exe
+D:\Універ\Алгоритмізація та програмування\Buble_sort\Buble_sort\bin\Debug\Buble_sort.pdb
+D:\Універ\Алгоритмізація та програмування\Buble_sort\Buble_sort\obj\Debug\Buble_sort.csproj.AssemblyReference.cache
+D:\Універ\Алгоритмізація та програмування\Buble_sort\Buble_sort\obj\Debug\Buble_sort.csproj.SuggestedBindingRedirects.cache
+D:\Універ\Алгоритмізація та програмування\Buble_sort\Buble_sort\obj\Debug\Buble_sort.Form1.resources
+D:\Універ\Алгоритмізація та програмування\Buble_sort\Buble_sort\obj\Debug\Buble_sort.Properties.Resources.resources
+D:\Універ\Алгоритмізація та програмування\Buble_sort\Buble_sort\obj\Debug\Buble_sort.csproj.GenerateResource.cache
+D:\Універ\Алгоритмізація та програмування\Buble_sort\Buble_sort\obj\Debug\Buble_sort.csproj.CoreCompileInputs.cache
+D:\Універ\Алгоритмізація та програмування\Buble_sort\Buble_sort\obj\Debug\Buble_sort.exe
+D:\Універ\Алгоритмізація та програмування\Buble_sort\Buble_sort\obj\Debug\Buble_sort.pdb
